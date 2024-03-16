@@ -1,0 +1,19 @@
+{
+    "Student": "Charles Moffat",
+    "Semesters": [
+        {
+            "Fall 2023": [
+                "CIS 314",
+                "HIST 100",
+                "MATH 207"
+            ]
+        },
+        {
+            "Spring 2024": [
+                "CIS 321",
+                "CIS 310",
+                "MATH 254"
+            ]
+        }
+    ]
+}

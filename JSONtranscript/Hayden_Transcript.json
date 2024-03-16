@@ -1,0 +1,19 @@
+{
+    "Student": "Hayden Banks",
+    "Semesters": [
+        {
+            "Fall 2023": [
+                "CIS 314",
+                "HIST 120",
+                "CIS 301"
+            ]
+        },
+        {
+            "Spring 2024": [
+                "CIS 321",
+                "CIS 386",
+                "PHIL 208"
+            ]
+        }
+    ]
+}
